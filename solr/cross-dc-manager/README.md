@@ -15,10 +15,10 @@
   limitations under the License.
 -->
 
-Welcome to Apache Solr Cross Datacenter Manager
+Welcome to Apache Solr Cross Data Center Manager
 ========
 
-The Apache Solr Cross Datacenter Replication Manager (solr-cross-dc-manager) provides a way for you to manage
-indexing to multiple Solr Clouds across datacenters in a reliable way.
+The Apache Solr Cross Data center Replication Manager (solr-cross-dc-manager) provides a way for you to manage
+indexing to multiple Solr Clouds across data centers in a reliable way.
 
-# Getting Started With the CrossDC Manager
+# Getting Started With the Cross DC Manager
